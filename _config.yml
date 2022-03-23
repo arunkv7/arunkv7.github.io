@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arun Kumar Varanasi"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Arun Kumar Varanasi"
 description              : &description "personal description"
