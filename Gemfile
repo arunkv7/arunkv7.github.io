@@ -18,7 +18,7 @@ gem "jekyll-theme-primer", "~> 0.4"
 
 # color skin
 
-gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
+#gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
 
 # gem "jekyll"
 
