@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # color skin
 
-#gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
+gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
 
 # gem "jekyll"
 
