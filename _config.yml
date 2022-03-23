@@ -302,7 +302,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 # Adding theme as suggested
-#theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # HTML Compression
