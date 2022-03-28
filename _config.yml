@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Arun Kumar Varanasi"
-description              : &description "personal description"
+description              : &description "Ph.D. research scholar"
 url                      : https://arunkv7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arunkv7/arunkv7.github.io"
@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Arun Kumar Varanasi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. in Engineering Mechanics Unit, JNCASR"
+  location         : "Bangalore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "arunkv7"
+  github           : #"arunkv7"
   google_plus      :
   keybase          :
   instagram        :
