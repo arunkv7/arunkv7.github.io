@@ -12,7 +12,7 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Arun Kumar V."
 title_separator          : "-"
 name                     : &name "Arun Kumar Varanasi"
 description              : &description "Ph.D. research scholar"
