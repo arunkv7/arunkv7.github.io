@@ -17,15 +17,18 @@ Education
 
 Work experience
 ======
+* 2022-current: ??
+  * TIFR-ICTS, Bangalore
+* Oct'2014-Jul'2015: R&D Assistant
+  * Jawaharlal Nehru Center for Advanced Scientific Research, Bangalore
+ 
+* Feb'2009 - Jul'2013: Senior Research Engineer
+  * Center for Study of Science, Technology and Policy, Bangalore
+  * Research on New battery materials and solar energy
+
 * 2008-2009: Senior Research Fellow
   * Central Electrochemical Research Institute, Karaikudi
-  [//]: # Duties included: Tagging issues
-  [//]: # * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* During my Ph.D., I had spent time teaching parts of mathematics and physics to 10+2 students as part of the student mentoring program of JNCASR.
