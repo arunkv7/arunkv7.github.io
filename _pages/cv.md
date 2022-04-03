@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Chemical Engineering, Acharya Nagarjuna University (RVR& JC CE), 2005
+* M.E. in Chemical Engineering, Indian Institute of Science, 2007
+* Ph.D Engineering Mechanics Unit, Jawaharlal Nehru Center for Advanced Scientific Research, Bangalore, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2008-2009: Senior Research Fellow
+  * Central Electrochemical Research Institute, Karaikudi
+  [//]: # Duties included: Tagging issues
+  [//]: # * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
   * Github University
