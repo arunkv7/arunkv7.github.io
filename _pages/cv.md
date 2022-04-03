@@ -11,33 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Chemical Engineering, Acharya Nagarjuna University (RVR& JC CE), 2005
-* M.E. in Chemical Engineering, Indian Institute of Science, 2007
+* B.Tech. in Chemical Engineering, Acharya Nagarjuna University (RVR& JC CE),Guntur, 2005
+* M.E. in Chemical Engineering, Indian Institute of Science (IISc), Bangalore, 2007
 * Ph.D Engineering Mechanics Unit, Jawaharlal Nehru Center for Advanced Scientific Research, Bangalore, 2022 (expected)
 
 Work experience
 ======
 * 2022-current: ??
   * TIFR-ICTS, Bangalore
+
 * Oct'2014-Jul'2015: R&D Assistant
   * Jawaharlal Nehru Center for Advanced Scientific Research, Bangalore
  
 * Feb'2009 - Jul'2013: Senior Research Engineer
   * Center for Study of Science, Technology and Policy, Bangalore
-  * Research on New battery materials and solar energy
 
 * 2008-2009: Senior Research Fellow
   * Central Electrochemical Research Institute, Karaikudi
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
