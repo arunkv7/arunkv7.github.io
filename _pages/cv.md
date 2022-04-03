@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Chemical Engineering, Acharya Nagarjuna University (RVR& JC CE),Guntur, 2005
-* M.E. in Chemical Engineering, Indian Institute of Science (IISc), Bangalore, 2007
-* Ph.D Engineering Mechanics Unit, Jawaharlal Nehru Center for Advanced Scientific Research (JNCASR), Bangalore, 2022 (expected)
+* B.Tech. in Chemical Engineering, Acharya Nagarjuna University (RVR& JC CE),Guntur, 2001-2005
+* M.E. in Chemical Engineering, Indian Institute of Science (IISc), Bangalore, 2005-2007
+* Ph.D Engineering Mechanics Unit, Jawaharlal Nehru Center for Advanced Scientific Research (JNCASR), Bangalore, 2015-2022 (expected)
 
 Work experience
 ======
