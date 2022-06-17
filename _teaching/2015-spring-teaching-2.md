@@ -9,12 +9,3 @@ location: "Bangalore, India"
 ---
 
 I have been a teaching assistant for graduate fluid mechanics course during  Ph.D. program at JNCASR, Bangalore for two semesters. I had been involved in preparation of the assignement questions and grading the assignments.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
