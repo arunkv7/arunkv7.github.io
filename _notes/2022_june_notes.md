@@ -5,4 +5,4 @@ excerpt: 'Aliasing, Aliasing instability in solving solving nonlinear PDEs using
 date: 2022-06-22
 ---
 
-[Download notes here](http://arunkv7.github.io/files/paper3.pdf)
+[Download notes here](http://arunkv7.github.io/files/Burgers_dealiasing.pdf)
