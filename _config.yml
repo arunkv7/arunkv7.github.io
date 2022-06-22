@@ -92,27 +92,27 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uslcU7QAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            :  "arun.target@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Arun-Varanasi"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
   github           : #"arunkv7"
-  google_plus      :
-  keybase          :
+  #google_plus      :
+  #keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  #lastfm           :
   linkedin         :
   #orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  #pinterest        :
+  #soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  #steam            :
   tumblr           :
   #twitter          : "replacethistwitterhandle"
   vine             :
