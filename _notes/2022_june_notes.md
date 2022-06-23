@@ -1,8 +1,7 @@
 ---
-title: "Notes on Dealiasing of a quadratic nonlinearity"
+title: "Dealiasing in pseudospectral method"
 collection: notes
-excerpt: 'Aliasing, Aliasing instability in solving solving nonlinear PDEs using spectral method and dealiasing for quadratic nonlinearities'
-date: 2022-06-22
+excerpt: 'Aliasing, Aliasing instability in solving nonlinear PDEs using pseudospectral method and dealiasing for quadratic nonlinearities'
 ---
 
 [Download notes here](http://arunkv7.github.io/files/Burgers_dealiasing.pdf)
