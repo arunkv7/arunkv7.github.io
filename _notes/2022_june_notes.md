@@ -1,5 +1,5 @@
 ---
-title: "Notes on Dealiasing of a quadratic nonlinearity"
+title: "Dealiasing $\frac{2}{3}$rd rule"
 collection: notes
 excerpt: 'Aliasing, Aliasing instability in solving solving nonlinear PDEs using spectral method and dealiasing for quadratic nonlinearities'
 date: 2022-06-22
