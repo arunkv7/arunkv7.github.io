@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently a Ph.D. student at Engineering Mechanics Unit, and had submitted my Ph.D. thesis recently. I will be defending my thesis very soon. I will be joining as a Postdoctoral Fellow at Fluid Dynamics and Turbulence group at TIFR-ICTS (International Centre for Theoretical Sciences). 
+Hello, I am Arun Kumar Varanasi and soon will be joining as a Postdoctoral Fellow at Fluid Dynamics and Turbulence group at TIFR-ICTS (International Centre for Theoretical Sciences), Bangalore. 
 
 My research interests are in the areas of Fluid Mechanics and Applied Mathematics. Currently, I am interested in the energy transfers and nonlinear interactions in turbulence and geophysical flows as part of my postdoctoral work. I am also interested in developing understanding of factors contrbuting to world's oceanic circulation, especially in the idea of biogenic mixing. 
 
