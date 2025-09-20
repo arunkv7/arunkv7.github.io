@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at Fluid Dynamics and Turbulence group at TIFR-ICTS (International Centre for Theoretical Sciences), Bangalore.
+I am currently Assistant Professor in Chemical Engineering at Saintgits College of Engineering, Kottayam, Kerala. 
+
+Previously, I was a postdoctoral fellow from 2022-2025 at Fluid Dynamics and Turbulence group at TIFR-ICTS (International Centre for Theoretical Sciences), Bangalore.
 
 My research interests are mainly in the areas of Fluid Mechanics and Applied Mathematics. I mainly use tools such as perturbation methods, asymptotic analysis and also often employ numerical methods as required. 
 
