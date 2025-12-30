@@ -1,34 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: about.jpg
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#    <p>Assistant Professor</p>
+#    <p>Saintgits College of Engineering</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We study the dynamics of particles and tracers in stratified and rotating fluid flows and also flow field induced by motion of both passive and active particles in these anisotropic flows.  There is also emphasis on the particle shape with particular emphasis on how background structure, turbulence, and external forces influence transport, mixing, and intermittency. Our work combines theoretical analysis with direct numerical simulations to uncover the mechanisms governing particle motion in environmental and geophysical flows.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A central theme of our research is the connection between microscopic particle dynamics and macroscopic flow properties. We investigate Lagrangian statistics, particle-induced fluid drift, and the role of stratification and rotation in modifying classical turbulence phenomenology. These questions are motivated by problems in oceans, atmosphere, and engineered stratified systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our approach emphasizes physical understanding through scaling arguments, and asymptotic reasoning that can complement large-scale DNS simulations. More broadly, our work lies at the interface of fluid mechanics, applied mathematics, and environmental physics. We also look into the aspects of development of  macroscopic models of advanced battery systems.
+
+I am currently an Assistant Professor in Chemical Engineering at Saintgits College, Kottayam, Kerala,
+
+
+I welcome interactions with students and collaborators interested in theoretical and computational aspects of fluid mechanics.
+

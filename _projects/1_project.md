@@ -1,12 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Biogenic mixing of Oceans 
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
+show: true
 related_publications: true
 ---
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

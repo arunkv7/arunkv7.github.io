@@ -1,0 +1,25 @@
+@use "sass:color";
+
+// Background & text
+$background-color: #f7f7f4;
+$body-color: #1f2933;
+$text-color: #1f2933;
+
+// Links (reuse theme colors)
+$link-color: color.adjust($blue-color, $lightness: -5%);
+$link-hover-color: color.adjust($blue-color-dark, $lightness: -5%);
+
+// Borders & separators
+$border-color: $grey-color-light;
+
+// Navbar
+$navbar-bg-color: #ffffff;
+$navbar-text-color: $grey-900;
+$navbar-link-color: $grey-900;
+$navbar-link-hover-color: $blue-color;
+
+// Footer
+$footer-bg-color: #f2f2ee;
+$footer-text-color: $grey-color;
+
+
