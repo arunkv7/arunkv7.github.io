@@ -1,7 +1,7 @@
 ## Arun Kumar Varanasi  
 **Principal Investigator**
 
-Write your biography here. Tell the world about yourself.
+I am currently an Assistant Professor at the Department of Chemical Engineering, Saintgits College, Kottayam, India. Before that, I had a (very competitive) postdoctoral stint at International Centre for Theoretical Sciences, bangalore for three years. Even before that, I graduated with my Ph.D. in Engineering Mechanics Unit, JNCASR, bangalore. 
 
 You can link to your favorite [subreddit](https://reddit.com).
 
