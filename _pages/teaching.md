@@ -13,23 +13,28 @@ My teaching emphasizes **physical understanding**, **mathematical clarity**, and
 
 ---
 
-## Courses Taught (and currently teaching)
-
 ### Undergraduate Courses / Tutorials
 
 #### **Transport Phenomena**  
-*B.Tech Chemical Engineering (Third Year) *   
+*B.Tech Chemical Engineering (Third Year)* (Dec 2025-)
+
+#### **Comprehensive Course Viva**  
+*B.Tech Chemical Engineering (Fourth Year)* (Dec 2025-)
+
+#### **Engineering Biology** (Jan 2026-)
+*B.Tech (First year)*
 
 #### **Heat Transfer**  
-*B.Tech Chemical Engineering (Second Year)*  
-- Tutorials
+*B.Tech Chemical Engineering (Second Year)* (Jan 2026-)
 
-#### **Chemical Engineering Thermodynamics**  
+#### **Chemical Engineering Thermodynamics** (Jan 2026-)  
 *B.Tech Chemical Engineering*  
-- Tutorials
 
-#### **Corrosion Engineering**
-*B.Tech Chemical Engineering (Fourth year) *
+#### **Corrosion Engineering** (Jul 2025-Nov 2025)
+*B.Tech Chemical Engineering (Fourth year)*
+
+#### **Engineering Biology** (Jul 2025-Nov 2025)
+*B.Tech (First year)*
 
 ---
 
@@ -37,9 +42,8 @@ My teaching emphasizes **physical understanding**, **mathematical clarity**, and
 
 - **Heat Transfer Laboratory**  
 - **Fluid and Particle Mechanics Laboratory**  
-- **Computational Tools**: Python and MATLAB for transport problems  
-
-Emphasis on **data interpretation**, **error analysis**, and **physical reasoning** rather than cookbook procedures.
+- **Python Programming Laboratory** 
+- **MATLAB Programming Laboratory**
 
 ---
 
