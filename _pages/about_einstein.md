@@ -1,7 +1,8 @@
 ## Arun Kumar Varanasi  
 **Principal Investigator**
 
-I am currently an Assistant Professor at the Department of Chemical Engineering, Saintgits College, Kottayam, India. Before that, I had a (very competitive) postdoctoral stint at International Centre for Theoretical Sciences, bangalore for three years. Even before that, I graduated with my Ph.D. in Engineering Mechanics Unit, JNCASR, bangalore. 
+I am an Assistant Professor in the Department of Chemical Engineering at Saintgits College of Engineering, Kottayam, India. I previously held a competitive postdoctoral fellowship at the International Centre for Theoretical Sciences (ICTS–TIFR), Bengaluru, where I worked for three years. I completed my Ph.D. in Engineering Mechanics at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru.
+
 
 You can link to your favorite [subreddit](https://reddit.com).
 
