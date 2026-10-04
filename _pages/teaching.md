@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 description: Courses taught, teaching philosophy, and instructional materials.
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 My teaching emphasizes **physical understanding**, **mathematical clarity**, and **connections between theory and real-world systems**. Our primary aim is to train students to think critically, to derive, estimate, and assess rather than merely apply formulas.
