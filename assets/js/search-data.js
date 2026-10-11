@@ -396,7 +396,7 @@ ninja.data = [{
           title: 'Posted the UG Third year Transport Phenomena notes on the website. Check out!...',
           description: "",
           section: "News",},{id: "projects-biogenic-mixing-of-oceans",
-          title: 'Biogenic mixing of Oceans',
+          title: 'Biogenic Mixing of Oceans',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -407,7 +407,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-stratified-turbulence",
           title: 'Stratified Turbulence',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
