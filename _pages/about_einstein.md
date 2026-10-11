@@ -13,5 +13,5 @@ Previously, I held a three-year postdoctoral fellowship at the International Cen
 
 ### Physics-Based Random Forest Model for Early Prediction of Thermal Runaway in Chemical Reactors
 
-- **B.Tech Chemical Engineering, third year:** Prarthana Pramod and Anamika US
-- **B.Tech Computer Science:** Albi Alex and Gayathri TS
+- **B.Tech Chemical Engineering, Third Year:** Prarthana Pramod and Anamika US
+- **B.Tech Computer Science, Third Year:** Albi Alex and Gayathri TS
