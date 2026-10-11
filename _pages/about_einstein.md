@@ -1,15 +1,6 @@
-## Arun Kumar Varanasi  
+## Arun Kumar Varanasi
 **Principal Investigator**
 
-I am an Assistant Professor in the Department of Chemical Engineering at Saintgits College of Engineering, Kottayam, India. I previously held a competitive postdoctoral fellowship at the International Centre for Theoretical Sciences (ICTS–TIFR), Bengaluru, where I worked for three years. I completed my Ph.D. in Engineering Mechanics at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru.
+Assistant Professor, Department of Chemical Engineering, Saintgits College of Engineering, Kottayam, India.
 
-
-You can link to your favorite [subreddit](https://reddit.com).
-
-Put your address / P.O. box / other info right below your picture.
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I held a three-year postdoctoral fellowship at the International Centre for Theoretical Sciences (ICTS–TIFR), Bengaluru. I earned my Ph.D. in Engineering Mechanics from the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru.
