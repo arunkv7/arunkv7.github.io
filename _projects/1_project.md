@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biogenic mixing of Oceans
+title: Biogenic Mixing of Oceans
 importance: 1
 category: work
 show: true
