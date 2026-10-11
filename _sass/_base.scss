@@ -230,6 +230,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+/* Smaller portrait on the People page */
+.profile.people-profile {
+  width: 22%;
+}
+
+@media (max-width: 575.98px) {
+  .profile.people-profile {
+    width: 55%;
+    float: none;
+    margin: 0 auto 1rem;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
