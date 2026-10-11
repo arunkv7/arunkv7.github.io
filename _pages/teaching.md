@@ -22,11 +22,11 @@ My teaching emphasizes **physical understanding**, **mathematical clarity**, and
 #### **Engineering Biology** 
 *B.Tech (First year)* (Jan 2026-)
 
-#### **Heat Transfer**  
-*B.Tech Chemical Engineering (Second Year)* (Jan 2026-)
+#### **Chemical Reaction Engineering**
+*B.Tech Chemical Engineering* (Jul 2026-Nov 2027)
 
-#### **Chemical Engineering Thermodynamics** 
-*B.Tech Chemical Engineering* (Jan 2026-)  
+#### **Process Modeling and Simulation**
+*B.Tech Chemical Engineering* (Jul 2026-Nov 2027)
 
 #### **Corrosion Engineering** 
 *B.Tech Chemical Engineering (Fourth year)* (Jul 2025-Nov 2025)
@@ -75,4 +75,3 @@ I am interested in developing courses on:
 - Sustainable systems
 
 ---
-
