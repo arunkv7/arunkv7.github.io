@@ -9,7 +9,7 @@ Previously, I held a three-year postdoctoral fellowship at the International Cen
 
 ### Critical Materials Extraction from Spent Lithium-Ion Batteries
 
-Final-year B.Tech Chemical Engineering students: Ann Mariam Manoj, Ashwin Oberoi, Arjun SS, and Sreedevi.
+- **B.Tech Chemical Engineering, Fourth Year:** Ann Mariam Manoj, Ashwin Oberoi, Arjun SS, and Sreedevi.
 
 ### Physics-Based Random Forest Model for Early Prediction of Thermal Runaway in Chemical Reactors
 
