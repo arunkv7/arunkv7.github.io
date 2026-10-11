@@ -230,18 +230,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-/* Keep the People portrait smaller without changing the Home photo. */
-.profile img[src*="prof_pic"] {
-  width: 75%;
-  margin-left: auto;
-}
-
-@media (max-width: 575.98px) {
-  .profile img[src*="prof_pic"] {
-    width: 55%;
-    margin: 0 auto;
-  }
-}
 
 .post-description {
   margin-bottom: 2rem;

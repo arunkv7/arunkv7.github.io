@@ -1,3 +1,16 @@
+<style>
+.profile img[src*="prof_pic.jpg"] {
+  width: 75%;
+  margin-left: auto;
+}
+@media (max-width: 575.98px) {
+  .profile img[src*="prof_pic.jpg"] {
+    width: 55%;
+    margin: 0 auto;
+  }
+}
+</style>
+
 ## Arun Kumar Varanasi
 **Principal Investigator**
 
